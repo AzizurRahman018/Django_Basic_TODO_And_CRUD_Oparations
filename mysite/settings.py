@@ -124,6 +124,18 @@ STATICFILES_DIRS = [
 
 ]
 
+# STATIC_URL = '/static/'
+
+# # Directory where collectstatic will gather static files for production
+# STATIC_ROOT = BASE_DIR / 'staticfiles'
+
+# # Additional directories to search for static files
+# STATICFILES_DIRS = [
+#     BASE_DIR / 'mysite/static',
+# ]
+
+
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field
 
